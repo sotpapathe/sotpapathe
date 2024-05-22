@@ -1,1 +1,1 @@
-My projects are hosted on [SourceHut](https://sr.ht/~sotirisp) (user ~sotirisp).
+My projects are hosted on [sourcehut](https://sr.ht/~sotirisp) under user ~sotirisp.
